@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HLTC Tennis</string>
+    <string name="home">홈</string>
+    <string name="players">플레이어</string>
+    <string name="create_session">세션 생성</string>
+    <string name="stats">통계</string>
+    <string name="start_today_session">오늘 세션 시작</string>
+    <string name="recent_sessions">최근 세션</string>
+    <string name="today_match_list">오늘 경기 리스트</string>
+</resources>
